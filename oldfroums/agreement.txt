@@ -1,0 +1,74 @@
+Terms of Agreement
+
+
+By connecting to our websites or logging in to our Minecraft server, you agree to abide by all Rules and follow directions from staff members, in addition to the terms below.
+
+
+Definitions
+
+"Staff" are defined as users ranked as Moderators or Admins.
+
+"Flatcraft," "The Flatcraft server," "Flatcraft Minecraft Server," and any other variations thereof pertain to the server located at the IP address of 64.31.44.146 Port number of 47385
+
+"Account" is defined as a players in-game identity that the player registered with Mojang on the Minecraft website
+
+"Content" includes, but is not limited to:
+
+ - player datafiles
+ - anything created or obtained while playing on The Flatcraft server such as
+ - player or container inventories
+ - images, such as screenshots
+ - builds (block placements or manipulations)
+ - anything at all (text, images, etc.) submitted to:
+       + flatcraft.eu
+- Flatcraft staff or server email accounts
+ 
+
+Donations
+
+Donations are completely optional. Donations will not necessarily confer any special privileges, ranks, or status to those donating to the server. By donating to The Flatcraft Minecraft server, you agree to the Terms of Agreement and this action does not give you authority or power above the Terms of Agreement. A repayment of your donation will not be made under any circumstances.
+
+ 
+
+Content Licensing
+
+All content, as defined above, may be retained, removed, or relocated at the discretion of server staff. By submitting content to Flatcraft's (including, but not limited to, Flatcraft.tk), by submitting content to staff or server email accounts or other contact media, or by creating content on our Minecraft server, you grant us perpetual, irrevocable, worldwide, non-exclusive, royalty-free, sublicenseable rights to use, copy, modify, adapt, distribute, prepare derivative works of, perform, or publicly display that content. You also represent and warrant that you are the owner of or have the right to post your content, and that the submission or nature of your content does not infringe the rights of any third party. Any damages resulting from such infringements are exclusively the liability of the user who submitted said content. (Since Flatcraft is not currently a legally recognized corporation, this includes content as individually submitted by any particular staff members).
+
+Our license (as described above) for your work does mean that we have the right to partially or fully move, delete, or change any content as it exists on our server, at any time, and without warning or permission. Depending on the degree of changes made, you recognize that our actions may also result in a change in copyright ownership or intellectual property rights on the altered content as a result of sufficiently derivative alteration. We also have the right to deny you access to your content as it exists on our server. In the special case of "builds" in-game, we will typically provide NBT minecraft schematic files to the creator of the "build," upon request. Unreasonable requests (as determined by Flatcraft staff) may not be honored, however. Examples of unreasonable requests might be requests for builds that are trivially small, that no longer exist, or that have been significantly altered by other builders so as to no longer be "your" builds.
+
+ 
+
+Termination and Suspension of Access
+
+Players found violating the Terms of Agreement or any server rules may find their accounts or IP addresses restricted or eliminated from the Flatcraft Minecraft server and related websites. This includes, but is not limited to Flatcraft.tk. In addition, staff retains the right to kick you, ban you, or block your access to the server or any other affiliated websites or services for any other reason, without explanation or warning.
+
+In particular, players found repeatedly asking questions covered by the FAQ may be banned without further warning.
+
+While players may appeal their bans as a courtesy, server staff retains the right to revoke any request for a ban appeal.
+
+ 
+
+Prohibited Behavior
+
+By joining The Flatcraft Minecraft server or creating an account on any related website, you agree NOT TO:
+
+ - use or encourage others to use Flatcraft Minecraft server or related websites for any illegal purpose;
+ - impersonate any Flatcraft member in the game or on any other web site;
+ - make unsolicited or inappropriate offers, advertisements or proposals for goods, services or other commercial activities that are not related to The Flatcraft Minecraft server;
+ - interfere with any security-related features of The Flatcraft Minecraft server or related websites;
+ - harass members or guests of Flatcraft;
+ - engage in any other conduct prohibited by Staff and or Server Rules;
+ - release or distribute server access information without Staff consent;
+ - save (in any form other than temporary Minecraft or browser server packets required for viewing and intended interaction), reproduce, mimic, or otherwise copy any content on the Flatcraft server or associated websites or services, for either personal use or public distribution, unless you you hold the sole, original copyright on that content; and
+ - release or distribute any server content without Staff consent (with the exception of unaltered content to which you hold the sole, original copyright).
+ 
+
+General
+
+You agree to hold harmless the Flatcraft and staff, their heirs, legal representatives, and assigns, and all other persons acting under the Flatcraft’s or staff's authority or those for whom they are acting, from any liability resulting from:
+
+your usage of The Flatcraft server or affiliated websites or other services.
+Any usage of content you have submitted or created as defined above, or any changes or modifications made thereto.
+Staff retains the right to modify these terms at any time without warning.
+
+You agree that these terms are binding upon you and your heirs, legal representatives, and assigns, in perpetuity. You also agree that you are at least sixteen (16) years of age or have parent/guardian consent to access The Flatcraft Minecraft server. Finally, you agree that you are the sole owner of your account and shall be held liable for all actions made by said account.
